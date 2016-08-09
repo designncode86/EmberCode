@@ -1,3 +1,3 @@
-# Ember Code
+# EmberJS Code
 
 ## Beginner code examples
